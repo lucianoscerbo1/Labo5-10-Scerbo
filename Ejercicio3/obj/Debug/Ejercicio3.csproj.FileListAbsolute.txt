@@ -1,0 +1,8 @@
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio3\obj\Debug\Ejercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio3\obj\Debug\Ejercicio3.pdb

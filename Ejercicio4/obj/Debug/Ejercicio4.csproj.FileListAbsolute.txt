@@ -1,0 +1,16 @@
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio4\obj\Debug\Ejercicio4.csproj.SuggestedBindingRedirects.cache
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio4\obj\Debug\Ejercicio4.pdb
+C:\Users\Scerbo\Desktop\Laboratorio5to-Scerbo\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\Scerbo\Desktop\Laboratorio5to-Scerbo\Ejercicio4\obj\Debug\Ejercicio4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Scerbo\Desktop\Laboratorio5to-Scerbo\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Scerbo\Desktop\Laboratorio5to-Scerbo\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\Scerbo\Desktop\Laboratorio5to-Scerbo\Ejercicio4\obj\Debug\Ejercicio4.pdb
+C:\Users\Scerbo\Desktop\Laboratorio5to-Scerbo\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\Scerbo\Desktop\Laboratorio5to-Scerbo\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\Scerbo\Desktop\Laboratorio5to-Scerbo\Ejercicio4\bin\Debug\Ejercicio4.pdb

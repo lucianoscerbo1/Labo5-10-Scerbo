@@ -1,0 +1,8 @@
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio2\obj\Debug\Ejercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\alumnos\source\repos\Scerbo\Scerbo\Ejercicio2\obj\Debug\Ejercicio2.pdb
